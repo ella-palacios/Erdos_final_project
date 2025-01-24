@@ -1,6 +1,9 @@
 
 # Thrive or Survive: Predicting the Health of Trees following Forest Fires in Washington 
-A project by Henry Cladouhos, Allie Cruikshank, Christina Duffield, & Ella Palacios
+A project by Henry Cladouhos, Allie Cruikshank, Christina Duffield, & Ella Palacios  
+This project placed within the Top 5 among the Erdös Institute Fall 2024 Cohort for our work in data science, results, & potential ecological impact. 
+
+Please see the following link for the project presentation & summary slides: https://www.erdosinstitute.org/certificates/fall-2024/data-science-boot-camp/ella-palacios  
 
 ## Overview
 #### Motivation:
