@@ -1,4 +1,4 @@
-# Erdos_Trees
+
 # Thrive or Survive: Predicting the Health of Trees following Forest Fires in Washington 
 A project by Henry Cladouhos, Allie Cruikshank, Christina Duffield, & Ella Palacios
 
